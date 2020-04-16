@@ -56,7 +56,7 @@ print(f"---------------------------")
 print(f"Winner: {WinnerName}")
 print(f"---------------------------")
 
-output_file = os.path.join('.', 'PyPoll', 'Resources', 'PyPoll.txt')
+output_file = os.path.join('.', 'PyPoll', 'PyPoll.txt')
 
 with open(output_file, 'w',) as txtfile:
 
